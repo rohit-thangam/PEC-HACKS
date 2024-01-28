@@ -1,0 +1,10 @@
+streamlit
+pandas
+streamlit_echarts
+typing-extensions
+sqlalchemy
+dataclasses
+python-dotenv
+SpeechRecognition
+pyttsx3
+langchain
